@@ -1,3 +1,5 @@
+package topcoder;
+
 public class ABBADiv1 {
 
     public boolean canObtainBoolean(String initial, String target) {
